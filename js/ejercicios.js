@@ -111,3 +111,4 @@ console.log("Resultado de la multiplicacion es "+tienda.calcularMultiplicacion()
  //Calcular la media de los elementos del array
  // media : suma de todos los elementos entre todos los elementos
  let media = total / precios.length // he puesto total, porque ya he calculado antes el total de todos los elementos del array entonces ya lo tengo hecho, solo he vuelto a llamar la variable total y ya le dividido precios.length porque significa cada elemento de los precios
+//ALGO
