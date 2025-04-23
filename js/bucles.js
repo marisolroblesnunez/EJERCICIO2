@@ -146,4 +146,8 @@ function crearMensaje(nombre, edad){
 let mensaje= crearMensaje("Marisol", 22);
 document.getElementById("mensaje").textContent = mensaje;
 
-ll
+function sumar4(madalenas, macarrones){
+console.log(churros)
+}
+sumar4(5,6);
+let churros= sumar4

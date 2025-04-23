@@ -1,0 +1,24 @@
+body
+{
+     max-width: 500px;
+     margin: 0 auto;
+     padding: 20px;
+}
+.container{
+    background-color: rgb(173, 252, 252);
+    border-radius: 20px;
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+button{
+    color: blueviolet;
+    background-color: rgb(177, 122, 56);
+}
+button:hover{
+    opacity: 0.8;
+}
+#resultado{
+    background-color: rgb(117, 72, 72);
+}
